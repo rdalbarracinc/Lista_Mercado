@@ -1,3 +1,6 @@
+# Esta es una herramienta para llevar las cuentas de la lista del mercado v1
+#Aquí solo se lleva la sumatoria de los precios
+
 print("===============================================================")
 print("BIENVENIDO A LA HERRAMIENTA DE CUENTAS PARA TU LISTA DE MERCADO")
 print("===============================================================")
